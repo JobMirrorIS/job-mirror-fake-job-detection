@@ -90,5 +90,5 @@ st.secrets["SUPABASE_ANON_KEY"]
 4. Add Supabase credentials in Secrets 
 5. Deploy
 
-
+Streamlit Website: https://jobmirroris-job-mirror-fake-job-detection-app-xsgtaf.streamlit.app/
 
